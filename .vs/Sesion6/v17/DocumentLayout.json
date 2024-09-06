@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\references\\link.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\references\\link.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\references\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\references\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\labc205\\documents\\aniobisiesto\\sesion6\\ejercicio1\\references\\link.tt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8693DE40-AAF5-48FA-9034-CBB642C958BA}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\references\\link.tt||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:08:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.Designer.cs",
+              "RelativeToolTip": "Ejercicio1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:19:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:19:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "link.tt",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.tt",
+              "RelativeDocumentMoniker": "Ejercicio1\\references\\link.tt",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.tt",
+              "RelativeToolTip": "Ejercicio1\\references\\link.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T14:11:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "link.cs",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\references\\link.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.cs",
+              "RelativeToolTip": "Ejercicio1\\references\\link.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:11:25.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "link.tt",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.tt",
+              "RelativeDocumentMoniker": "Ejercicio1\\references\\link.tt",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\references\\link.tt",
+              "RelativeToolTip": "Ejercicio1\\references\\link.tt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-06T13:48:04.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Form1.cs",
+              "ToolTip": "C:\\Users\\labc205\\Documents\\AnioBisiesto\\Sesion6\\Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T13:33:32.665Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

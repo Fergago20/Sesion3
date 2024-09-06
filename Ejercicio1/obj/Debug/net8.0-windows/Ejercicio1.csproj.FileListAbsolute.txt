@@ -1,0 +1,17 @@
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.Form1.resources
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.Properties.Resources.resources
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.AssemblyInfo.cs
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\bin\Debug\net8.0-windows\Ejercicio1.exe
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\bin\Debug\net8.0-windows\Ejercicio1.deps.json
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\bin\Debug\net8.0-windows\Ejercicio1.runtimeconfig.json
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\bin\Debug\net8.0-windows\Ejercicio1.dll
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\bin\Debug\net8.0-windows\Ejercicio1.pdb
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.dll
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\refint\Ejercicio1.dll
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.pdb
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.genruntimeconfig.cache
+C:\Users\labc205\Documents\AnioBisiesto\Sesion6\Ejercicio1\obj\Debug\net8.0-windows\ref\Ejercicio1.dll
